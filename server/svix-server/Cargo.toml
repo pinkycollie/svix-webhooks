@@ -57,7 +57,7 @@ jwt-simple = "0.11.6"
 lapin = "2.1.1"
 num_enum = "0.7.2"
 omniqueue = { git = "https://github.com/svix/omniqueue-rs", rev = "e7e328a576f921ca58d0bdb56b8df69fd996172d", default-features = false, features = ["in_memory", "rabbitmq-with-message-ids", "redis_cluster", "redis_sentinel", "beta"] }
-openssl = "0.10.72"
+openssl = "0.10.78"
 opentelemetry = { version = "0.26.0", features = ["metrics"] }
 opentelemetry-http = "0.26.0"
 opentelemetry-otlp = { version = "0.26.0", features = ["metrics"] }
